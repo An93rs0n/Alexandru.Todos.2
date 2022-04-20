@@ -1,1 +1,3 @@
+Some text by another user. COnflict situation
 Second branch text
+Conflict resolved
